@@ -1,0 +1,5 @@
+#6699ff
+
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+
+font-family: 'Nanum Pen Script', cursive;
