@@ -1,0 +1,19 @@
+html {
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+h1 {
+    text-align: center;
+    color: #6699ff;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+p {
+    font-size: 16pt;
+    line-height: 2;
+    letter-spacing: 1px;
+}
