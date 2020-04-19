@@ -1,19 +1,45 @@
-html {
+html{
     font-family: 'Nanum Pen Script', cursive;
 }
 
-h1 {
-    text-align: center;
-    color: #6699ff;
+body{
+    padding:0;
+    margin:0;
 }
 
-img{
-    display: block;
-    margin: auto;
+.nav{
+    display: flex;
+    align-items:center;
+    padding: 20px 20px;
+    border-bottom: 1px solid #ddd;
 }
 
-p {
-    font-size: 16pt;
-    line-height: 2;
-    letter-spacing: 1px;
+.logo{
+    height: 32px;
+    width: 32px;
+}
+
+.title{
+    margin-left:5px;
+    margin-right:20px;
+    color:blue;
+    text-decoration:none;
+}
+
+.nav-item{
+    padding:5px 20px;
+    color: red;
+    text-decoration:none;
+}
+
+.nav-item:hover{
+    background-color: #eee;
+}
+.nav-item.active{
+    color:blue;
+    text-decoration:none;
+}
+
+.content{
+    padding:0 20px;
 }
